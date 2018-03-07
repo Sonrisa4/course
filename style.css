@@ -1,0 +1,24 @@
+body{
+	background-color: lightblue;
+    color: #fff;
+}
+
+h1 {background-color: blue;
+    color: #fff}
+.first{margin-bottom: 50px;
+border-width: : 1px;
+border-style: solid;
+border-color: green;
+padding: 20px;}
+
+.second{margin-bottom: 50px;
+border-width: : 1px;
+border-style: solid;
+border-color: red;
+padding: 20px;}
+
+.third{margin-bottom: 50px;
+border-width: : 1px;
+border-style: solid;
+border-color: orange;
+padding: 20px;}
